@@ -14,15 +14,14 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: /home/phuc/Study/Udacity/SeftDrivingCar/Term1/Project4/CarND-Advanced-Lane-Lines/results_images/undistort_output1.png "Undistorted"
-[image2]: /home/phuc/Study/Udacity/SeftDrivingCar/Term1/Project4/CarND-Advanced-Lane-Lines/results_images/undistort_output2.png "Undistorted"
-[image12]: ./test_images/test1.jpg "Road Transformed"
-[image3]: /home/phuc/Study/Udacity/SeftDrivingCar/Term1/Project4/CarND-Advanced-Lane-Lines/results_images/binary_combo_example.png "Binary Example"
-[image4]: /home/phuc/Study/Udacity/SeftDrivingCar/Term1/Project4/CarND-Advanced-Lane-Lines/results_images/warped_straight_lines.png "Warp Example"
-[image5]: /home/phuc/Study/Udacity/SeftDrivingCar/Term1/Project4/CarND-Advanced-Lane-Lines/results_images/color_fit_lines-1.png "Fit Visual"
-[image6]: /home/phuc/Study/Udacity/SeftDrivingCar/Term1/Project4/CarND-Advanced-Lane-Lines/results_images/color_fit_lines-2.png "Fit Visual"
-[image7]: /home/phuc/Study/Udacity/SeftDrivingCar/Term1/Project4/CarND-Advanced-Lane-Lines/results_images/example_output.png "Output"
-[image8]: /home/phuc/Study/Udacity/SeftDrivingCar/Term1/Project4/CarND-Advanced-Lane-Lines/results_images/failure_example-1.png "Failure"
+[image1]: ./results_images/undistort_output1.png "Undistorted"
+[image2]: ./results_images/undistort_output2.png "Undistorted"
+[image3]: ./results_images/binary_combo_example.png "Binary Example"
+[image4]: ./results_images/warped_straight_lines.png "Warp Example"
+[image5]: ./results_images/color_fit_lines-1.png "Fit Visual"
+[image6]: ./results_images/color_fit_lines-2.png "Fit Visual"
+[image7]: ./results_images/example_output.png "Output"
+[image8]: ./results_images/failure_example-1.png "Failure"
 
 ## Rubric Points
 
